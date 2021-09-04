@@ -1,0 +1,18 @@
+
+
+[Aug 10 12:35:40] SECURITY[29840] res_security_log.c: SecurityEvent="ChallengeSent",EventTV="1470821740-110260",Severity="Informational",Service="SIP",EventVersion="1",AccountID="sip:79272170808@multifon.ru",SessionID="0x7f45a40246f8",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/193.201.229.35/5060",Challenge="093d299b"
+
+[Aug 10 12:35:40] SECURITY[29840] res_security_log.c: SecurityEvent="ChallengeSent",EventTV="1470821740-176252",Severity="Informational",Service="SIP",EventVersion="1",AccountID="sip:79272170808@multifon.ru",SessionID="0x7f45a40044a8",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/193.201.229.35/5060",Challenge="3458d5dd"
+
+
+
+[Aug 10 12:35:58] SECURITY[29840] res_security_log.c: SecurityEvent="ChallengeSent",EventTV="1470821758-272840",Severity="Informational",Service="SIP",EventVersion="1",AccountID="sip:1027@188.190.156.209",SessionID="0x7f45a4030328",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/37.8.30.93/10003",Challenge="69a59586"
+[Aug 10 12:35:58] NOTICE[29872][C-00000081] chan_sip.c: Failed to authenticate device 1027<sip:1027@188.190.156.209>;tag=16bbf4b1
+[Aug 10 12:35:58] SECURITY[29840] res_security_log.c: SecurityEvent="InvalidPassword",EventTV="1470821758-485751",Severity="Error",Service="SIP",EventVersion="2",AccountID="810972597562364",SessionID="0x7f45a4030328",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/37.8.30.93/5074",Challenge="69a59586",ReceivedChallenge="69a59586",ReceivedHash="b2d90a9b658215875dca141c2b6f3656"
+
+[Aug 10 12:36:00] SECURITY[29840] res_security_log.c: SecurityEvent="ChallengeSent",EventTV="1470821760-551277",Severity="Informational",Service="SIP",EventVersion="1",AccountID="sip:79272170808@multifon.ru",SessionID="0x7f45a4057348",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/193.201.229.35/5060",Challenge="00a02895"
+[Aug 10 12:36:00] SECURITY[29840] res_security_log.c: SecurityEvent="ChallengeSent",EventTV="1470821760-638618",Severity="Informational",Service="SIP",EventVersion="1",AccountID="sip:79272170808@multifon.ru",SessionID="0x7f45a403b068",LocalAddress="IPV4/UDP/188.190.156.209/5060",RemoteAddress="IPV4/UDP/193.201.229.35/5060",Challenge="65b49f9d"
+
+
+
+
